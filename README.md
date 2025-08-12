@@ -4,9 +4,9 @@
 <div style="display: inline_block"><br>
   <a href="https://github.com/otavio-vinii">
 
-  <img align="center" alt="Otavio-C" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
+  <img align="center" alt="Otavio-C" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">
   <img align="center" alt="Otavio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Otavio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Otavio-Python" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Otavio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Otavio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
