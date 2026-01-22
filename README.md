@@ -12,6 +12,6 @@ Estudante do 2º ano do Técnico em Desenvolvimento de Sistemas no SENAI. Apaixo
 
  <div align="left">
 
-  <img src="https://skillicons.dev/icons?i=ts,py,js,c,nodejs,flask,mysql,mongodb,redis,git,firebase" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,c,flask,mysql,mongodb,redis,git,firebase" />
 
 </div> 
