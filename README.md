@@ -19,8 +19,6 @@ Estudante do 2º ano do Técnico em Desenvolvimento de Sistemas no SENAI. Apaixo
 ### Estatísticas
 
 <div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavio-vinii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-vinii&layout=compact&theme=dracula"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=otavio-vinii&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=otavio-vinii&layout=compact&theme=dracula" />
 </div>
